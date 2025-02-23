@@ -15,7 +15,10 @@ O Manifesto Ágil foi criado em 2001 e define quatro valores principais:
 | **Colaboração com o cliente** | Mais que negociação de contratos |
 | **Responder a mudanças** | Mais que seguir um plano |
 
-Além disso, apresenta 12 princípios que guiam as práticas ágeis, como entregas frequentes, colaboração entre equipes e adaptação contínua. Para mais detalhes, consulte o [Manifesto Ágil](https://agilemanifesto.org/).
+Além disso, apresenta 12 princípios que guiam as práticas ágeis, como entregas frequentes, colaboração entre equipes e adaptação contínua. Para mais detalhes, consulte o blog [Manifesto Ágil: entenda como surgiu e conheça os 12 princípios](https://robsoncamargo.com.br/blog/Manifesto-Agil-entenda-como-surgiu-e-conheca-os-12-principios).
+
+### O Conceito do The Heart Of Agile
+_COLABORAR_ &rarr _ENTREGAR_ &rarr _REFLETIR_ &rarr _ MELHORAR!_
 
 ## Scrum
 O **Scrum** é uma das metodologias ágeis mais utilizadas. Ele é baseado em ciclos iterativos chamados **Sprints**, que geralmente duram de 1 a 4 semanas.
@@ -23,7 +26,7 @@ O **Scrum** é uma das metodologias ágeis mais utilizadas. Ele é baseado em ci
 ### Papéis no Scrum
 - **Scrum Master**: responsável por garantir que a equipe siga os princípios do Scrum e remover impedimentos.
 - **Product Owner (PO)**: responsável pelo backlog do produto e por definir as prioridades.
-- ~~Time de Desenvolvimento~~ → **Equipe de Desenvolvimento**: equipe responsável pela implementação das tarefas dentro do Sprint.
+- **Equipe de Desenvolvimento**: equipe responsável pela implementação das tarefas dentro do Sprint.
 
 ### Artefatos do Scrum
 
@@ -35,17 +38,17 @@ O **Scrum** é uma das metodologias ágeis mais utilizadas. Ele é baseado em ci
 
 ### Eventos do Scrum
 1. **Sprint Planning**: reunião para definir quais itens do backlog serão trabalhados no Sprint.
-2. **Daily Scrum**: reunião diária para alinhamento do time sobre o progresso e impedimentos.
-3. **Sprint Review**: apresentação do que foi desenvolvido no Sprint para stakeholders.
-4. **Sprint Retrospective**: reunião para análise do que funcionou bem e o que pode ser melhorado no próximo Sprint.
+1. **Daily Scrum**: reunião diária para alinhamento do time sobre o progresso e impedimentos.
+1. **Sprint Review**: apresentação do que foi desenvolvido no Sprint para stakeholders.
+1. **Sprint Retrospective**: reunião para análise do que funcionou bem e o que pode ser melhorado no próximo Sprint.
 
 ## Benefícios do Scrum
-- ✅ *Maior adaptabilidade às mudanças.*
-- ✅ **Entregas contínuas e frequentes.**
-- ✅ Melhor colaboração entre equipes e stakeholders.
-- ✅ Transparência no processo de desenvolvimento.
+- __*Maior adaptabilidade às mudanças.*__
+- __*Entregas contínuas e frequentes.*__
+- __*Melhor colaboração entre equipes e stakeholders.*__
+- __*Transparência no processo de desenvolvimento.*__
 
-## Checklist para Implementação do Scrum
+## Implementação do Scrum
 - [x] Definir o **Scrum Master**, **Product Owner** e **Equipe de Desenvolvimento**
 - [x] Criar e priorizar o **Product Backlog**
 - [x] Planejar o **Sprint Backlog**
