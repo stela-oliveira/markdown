@@ -18,7 +18,7 @@ O Manifesto Ágil foi criado em 2001 e define quatro valores principais:
 Além disso, apresenta 12 princípios que guiam as práticas ágeis, como entregas frequentes, colaboração entre equipes e adaptação contínua. Para mais detalhes, consulte o blog [Manifesto Ágil: entenda como surgiu e conheça os 12 princípios](https://robsoncamargo.com.br/blog/Manifesto-Agil-entenda-como-surgiu-e-conheca-os-12-principios).
 
 ### O Conceito do The Heart Of Agile
-_COLABORAR_ &rarr _ENTREGAR_ &rarr _REFLETIR_ &rarr _ MELHORAR!_
+_COLABORAR_ :arrow_forward: _ENTREGAR_ :arrow_forward: _REFLETIR_ :arrow_forward: _MELHORAR!_
 
 ## Scrum
 O **Scrum** é uma das metodologias ágeis mais utilizadas. Ele é baseado em ciclos iterativos chamados **Sprints**, que geralmente duram de 1 a 4 semanas.
@@ -71,6 +71,6 @@ backlog:
 ![Scrum Framework](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/1200px-Scrum_process.svg.png)
 
 ## Conclusão
-O **Scrum** é uma abordagem ágil eficaz para desenvolvimento de software, garantindo entregas rápidas e iterativas, além de promover a colaboração e melhoria contínua. Seu uso adequado pode levar a produtos de maior qualidade e maior satisfação do cliente.
+O **Scrum** é uma abordagem ágil eficaz para desenvolvimento de software, garantindo entregas rápidas e iterativas, além de promover a colaboração e melhoria contínua. Seu uso adequado pode levar a produtos de maior qualidade e maior satisfação do cliente. :smile:
 
 Para mais informações sobre Scrum, acesse a [guia oficial do Scrum](https://www.scrum.org/resources/scrum-guide).
